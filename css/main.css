@@ -99,7 +99,7 @@ iframe {
 .container-table100 {
   width: 100%;
   min-height: 100vh;
-  background: #c4d3f6;
+  background: #ffffff;
 
   display: -webkit-box;
   display: -webkit-flex;
@@ -136,8 +136,8 @@ iframe {
 }
 
 .row.header {
-  color: #ffffff;
-  background: #6c7ae0;
+  color: #424242;
+  background: #ffffff;
 }
 
 @media screen and (max-width: 768px) {
