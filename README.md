@@ -49,3 +49,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [pyiron_workflow](https://anaconda.org/conda-forge/pyiron_workflow) | [![conda](https://anaconda.org/conda-forge/pyiron_workflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_workflow) |
 | [pyiron_potentialfit](https://anaconda.org/conda-forge/pyiron_potentialfit) | [![conda](https://anaconda.org/conda-forge/pyiron_potentialfit/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_potentialfit) |
 | [ioproc](https://anaconda.org/conda-forge/ioproc) | [![conda](https://anaconda.org/conda-forge/ioproc/badges/downloads.svg)](https://anaconda.org/conda-forge/ioproc) |
+| [atomrdf](https://anaconda.org/conda-forge/atomrdf) | [![conda](https://anaconda.org/conda-forge/atomrdf/badges/downloads.svg)](https://anaconda.org/conda-forge/atomrdf) |
