@@ -31,3 +31,4 @@
 | [pyiron_potentialfit](https://anaconda.org/conda-forge/pyiron_potentialfit) | [![conda](https://anaconda.org/conda-forge/pyiron_potentialfit/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_potentialfit) |
 | [ioproc](https://anaconda.org/conda-forge/ioproc) | [![conda](https://anaconda.org/conda-forge/ioproc/badges/downloads.svg)](https://anaconda.org/conda-forge/ioproc) |
 | [atomrdf](https://anaconda.org/conda-forge/atomrdf) | [![conda](https://anaconda.org/conda-forge/atomrdf/badges/downloads.svg)](https://anaconda.org/conda-forge/atomrdf) |
+| [pyironflow](https://anaconda.org/conda-forge/pyironflow) | [![conda](https://anaconda.org/conda-forge/pyironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyironflow) |
