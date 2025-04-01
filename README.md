@@ -52,3 +52,4 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [atomrdf](https://anaconda.org/conda-forge/atomrdf) | [![conda](https://anaconda.org/conda-forge/atomrdf/badges/downloads.svg)](https://anaconda.org/conda-forge/atomrdf) |
 | [pyironflow](https://anaconda.org/conda-forge/pyironflow) | [![conda](https://anaconda.org/conda-forge/pyironflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyironflow) |
 | [tools4rdf](https://anaconda.org/conda-forge/tools4rdf) | [![conda](https://anaconda.org/conda-forge/tools4rdf/badges/downloads.svg)](https://anaconda.org/conda-forge/tools4rdf) |
+| [landau](https://anaconda.org/conda-forge/landau) | [![conda](https://anaconda.org/conda-forge/landau/badges/downloads.svg)](https://anaconda.org/conda-forge/landau) |
