@@ -44,7 +44,6 @@ Designed by [colorlib](https://colorlib.com/wp/template/responsive-table-v2/).
 | [ifes-apt-tc-data-modeling](https://anaconda.org/conda-forge/ifes-apt-tc-data-modeling) | [![conda](https://anaconda.org/conda-forge/ifes-apt-tc-data-modeling/badges/downloads.svg)](https://anaconda.org/conda-forge/ifes-apt-tc-data-modeling) |
 | [pyscal3](https://anaconda.org/conda-forge/pyscal3) | [![conda](https://anaconda.org/conda-forge/pyscal3/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscal3) |
 | [pyscal-rdf](https://anaconda.org/conda-forge/pyscal-rdf) | [![conda](https://anaconda.org/conda-forge/pyscal-rdf/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscal-rdf) |
-| [atomistics](https://anaconda.org/conda-forge/atomistics) | [![conda](https://anaconda.org/conda-forge/atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/atomistics) |
 | [python-ace](https://anaconda.org/conda-forge/python-ace) | [![conda](https://anaconda.org/conda-forge/python-ace/badges/downloads.svg)](https://anaconda.org/conda-forge/python-ace) |
 | [pyiron_workflow](https://anaconda.org/conda-forge/pyiron_workflow) | [![conda](https://anaconda.org/conda-forge/pyiron_workflow/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_workflow) |
 | [pyiron_potentialfit](https://anaconda.org/conda-forge/pyiron_potentialfit) | [![conda](https://anaconda.org/conda-forge/pyiron_potentialfit/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_potentialfit) |
