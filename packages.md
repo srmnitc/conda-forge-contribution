@@ -6,8 +6,6 @@
 | [pyiron_atomistics](https://anaconda.org/conda-forge/pyiron_atomistics) | [![conda](https://anaconda.org/conda-forge/pyiron_atomistics/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_atomistics) |
 | [pyiron_base](https://anaconda.org/conda-forge/pyiron_base) | [![conda](https://anaconda.org/conda-forge/pyiron_base/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_base) |
 | [pyiron_lammps](https://anaconda.org/conda-forge/pyiron_lammps) | [![conda](https://anaconda.org/conda-forge/pyiron_lammps/badges/downloads.svg)](https://anaconda.org/conda-forge/pyiron_lammps) |
-| [pysqa](https://anaconda.org/conda-forge/pysqa) | [![conda](https://anaconda.org/conda-forge/pysqa/badges/downloads.svg)](https://anaconda.org/conda-forge/pysqa) |
-| [pyfileindex](https://anaconda.org/conda-forge/pyfileindex) | [![conda](https://anaconda.org/conda-forge/pyfileindex/badges/downloads.svg)](https://anaconda.org/conda-forge/pyfileindex) |
 | [atomicrex](https://anaconda.org/conda-forge/atomicrex) | [![conda](https://anaconda.org/conda-forge/atomicrex/badges/downloads.svg)](https://anaconda.org/conda-forge/atomicrex) |
 | [pyscal](https://anaconda.org/conda-forge/pyscal) | [![conda](https://anaconda.org/conda-forge/pyscal/badges/downloads.svg)](https://anaconda.org/conda-forge/pyscal) |
 | [pylammpsmpi](https://anaconda.org/conda-forge/pylammpsmpi) | [![conda](https://anaconda.org/conda-forge/pylammpsmpi/badges/downloads.svg)](https://anaconda.org/conda-forge/pylammpsmpi) |
